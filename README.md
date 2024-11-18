@@ -3,7 +3,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaik-sobreira-lopes-917b742a7/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiksobreira07/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=CllgCJlLWjNdbzVXQlcQWQXztsMnzgwGvQMmDzhcQDvsmNpnCMgsHNZzVvgdPBfnSsLXKCbTnMg)
 
 ![Kaiks Github stats](https://github-readme-stats.vercel.app/api?username=KaikS1&theme=radical)
 
